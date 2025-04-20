@@ -1,12 +1,3 @@
-AUTHORING: a list of who the writers of the code are, their affiliation (UMBC/class including time/date)
-PURPOSE OF SOFTWARE: 
-FILES: a short description of the purpose of each of the files, e.g. includes, source files, make file
-BUILD INSTRUCTIONS: 
-TESTING METHODOLOGY: 
-ADDITIONAL INFORMATION: relevant and not mentioned above
-
-
-
 Created and Written Solely by William C.
 programmed with love <3
 for UMBC CMSC 313 Homework assignment #8
